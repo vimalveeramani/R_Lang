@@ -1,0 +1,4 @@
+# importing Data
+# Text Files
+library(readr)
+Salaries <- read_csv("salaries.csv")
